@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[자기소개](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=good)
 <!--
 **ScarletRedDevil/ScarletRedDevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![자기소개](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=good)
+![자기소개](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World)
 
 [![Scarlet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScarletRedDevil)](https://github.com/ScarletRedDevil/github-readme-stats)
 
